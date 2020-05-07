@@ -1,7 +1,8 @@
 # robotcontrol
 Free Angular and Node js based Robot Control System
-Run in terminal: npm install -g @angular/cli@latest
 
-Then: npm install
+1- npm install -g @angular/cli@latest
 
-And: ng serve
+2- npm install
+
+3- ng serve
